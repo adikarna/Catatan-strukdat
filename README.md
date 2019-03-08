@@ -1,0 +1,2 @@
+# Catatan-strukdat
+struktur data
